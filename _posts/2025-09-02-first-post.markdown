@@ -1,7 +1,8 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: post
+title:  "Welcome to my website!"
+date:   2025-07-27 08:26:41 -0500
+categories: misc
 ---
 Welcome to my website! My name is Yash Bansal, and I'm a software engineer. I currently work at Forcepoint LLC, and I've been working there for around 2 years. 
 
